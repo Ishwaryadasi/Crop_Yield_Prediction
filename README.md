@@ -80,5 +80,3 @@ A higher R² score indicates better prediction performance.
   - Jupyter Notebook
 
 ---
-
-## 📂 Project Structure
